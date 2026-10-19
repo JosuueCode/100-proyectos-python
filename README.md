@@ -8,4 +8,6 @@ Cada proyecto vive en su propia carpeta, numerada en orden.
 
 ## Progreso
 
-- [ ] Proyecto 001
+| #   | Proyecto   | Etapa          | Estado |
+|-----|------------|----------------|--------|
+| 001 | [Hola mundo](01-fundamentos/001-hola-mundo/) | 01-fundamentos | Terminado |
