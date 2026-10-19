@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos de planeación locales
+CLAUDE.md
+PLAN.md
