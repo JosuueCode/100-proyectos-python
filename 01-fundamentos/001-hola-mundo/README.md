@@ -1,19 +1,20 @@
 # 001 Hola mundo
 
-Primer script del reto: muestra "Hola mundo" y una breve presentación (quién soy,
-por qué empiezo el reto y qué espero aprender).
+Tu primer programa en Python. Muestra "Hola mundo" y te da la bienvenida a la
+ruta de los 100 proyectos.
 
 ## Cómo ejecutarlo
 
 Desde esta carpeta:
 
 ```bash
-py main.py
+python main.py
 ```
 
-## Conceptos que practica
+En Windows también puedes usar `py main.py`, y en macOS o Linux `python3 main.py`.
 
-- `print()` para mostrar texto en pantalla.
-- Cadenas de texto (`str`).
-- Comentarios y docstring de módulo.
-- Ejecución de arriba hacia abajo, línea por línea.
+## Qué vas a practicar
+
+En este proyecto vas a usar `print()` para mostrar texto en pantalla, trabajar
+con cadenas de texto y escribir tus primeros comentarios. También vas a ver que
+Python ejecuta el código de arriba hacia abajo, una línea a la vez.

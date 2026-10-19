@@ -1,23 +1,24 @@
 """Proyecto 001: Hola mundo.
 
-Primer script del reto. Muestra el clásico saludo y una presentación corta.
+Primer script de la ruta. Muestra el clásico saludo y da la bienvenida
+a quien lo ejecuta.
 """
 
 # El saludo de siempre: el primer programa de casi cualquier lenguaje
 print("Hola mundo")
 print()
 
-# Presentación: quién soy y por qué empiezo esto
-print("Me llamo Josue y este es el primer proyecto de mi reto de 100 proyectos en Python.")
-print("Empiezo el reto porque quiero aprender a programar de verdad, practicando")
-print("con proyectos pequeños en lugar de solo leer teoría.")
+# Bienvenida a quien ejecuta el script
+print("Te doy la bienvenida a la ruta de 100 proyectos en Python.")
+print("Si estás leyendo esto, ya ejecutaste tu primer programa.")
 print()
 
-# Lo que espero sacar del reto, de lo básico a lo avanzado
-print("Lo que espero aprender:")
-print("- Las bases: variables, tipos de datos y condicionales.")
-print("- A organizar mi código con funciones, módulos y clases.")
-print("- A terminar haciendo juegos y aplicaciones con interfaz gráfica.")
+# Lo que viene en la ruta, etapa por etapa
+print("Esto es lo que vas a recorrer:")
+print("1. Fundamentos: variables, tipos de datos, operadores y condicionales.")
+print("2. Programación estructurada: ciclos, funciones, listas y archivos.")
+print("3. Programación orientada a objetos: clases, herencia y polimorfismo.")
+print("4. Proyectos avanzados: juegos y aplicaciones con interfaz gráfica.")
 print()
 
-print("¡Vamos por los 100!")
+print("Cuando quieras, sigue con el proyecto 002.")

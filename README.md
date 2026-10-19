@@ -1,10 +1,31 @@
 # 100 Proyectos en Python
 
-Repositorio para practicar Python con 100 proyectos, del más sencillo al más avanzado.
+Una ruta de 100 proyectos para aprender Python desde cero, del más sencillo al
+más avanzado. Cada proyecto usa solo lo que ya viste en los anteriores, así que
+lo mejor es seguirlos en orden.
 
-## Estructura
+## Cómo está organizado
 
-Cada proyecto vive en su propia carpeta, numerada en orden.
+Los proyectos se dividen en cuatro etapas:
+
+- 01-fundamentos: variables, tipos, entrada y salida, operadores y condicionales.
+- 02-estructurada: ciclos, funciones, listas, diccionarios, archivos y módulos.
+- 03-poo: clases, herencia, encapsulamiento y polimorfismo.
+- 04-avanzados: juegos y aplicaciones visuales e interactivas.
+
+Cada proyecto tiene su carpeta con un `main.py` y un README que te explica qué
+hace, cómo ejecutarlo y qué vas a practicar.
+
+## Cómo empezar
+
+Necesitas tener Python 3 instalado. Clona el repositorio y ejecuta el primer
+proyecto:
+
+```bash
+git clone https://github.com/JosuueCode/100-proyectos-python.git
+cd 100-proyectos-python/01-fundamentos/001-hola-mundo
+python main.py
+```
 
 ## Progreso
 
