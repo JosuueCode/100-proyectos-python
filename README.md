@@ -33,3 +33,4 @@ python main.py
 |-----|------------|----------------|--------|
 | 001 | [Hola mundo](01-fundamentos/001-hola-mundo/) | 01-fundamentos | Terminado |
 | 002 | [Saludo personalizado](01-fundamentos/002-saludo-personalizado/) | 01-fundamentos | Terminado |
+| 003 | [Conversor de temperatura](01-fundamentos/003-conversor-temperatura/) | 01-fundamentos | Terminado |
