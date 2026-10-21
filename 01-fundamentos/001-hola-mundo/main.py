@@ -4,16 +4,25 @@ Primer script de la ruta. Muestra el clásico saludo y da la bienvenida
 a quien lo ejecuta.
 """
 
-# El saludo de siempre: el primer programa de casi cualquier lenguaje
+# El texto entre comillas triples (""") al inicio del archivo es un docstring:
+# documenta qué hace el programa. Python lo guarda, pero no lo muestra en pantalla.
+
+# Las líneas que empiezan con # son comentarios: Python las ignora al ejecutar.
+# Sirven para explicar el código a quien lo lee.
+
+# print() es una función integrada que muestra en pantalla lo que va entre
+# paréntesis. El texto entre comillas es una cadena de texto (tipo str).
 print("Hola mundo")
+
+# print() sin nada entre los paréntesis muestra una línea en blanco
 print()
 
-# Bienvenida a quien ejecuta el script
+# Python ejecuta las instrucciones en orden, de arriba hacia abajo:
+# cada print() muestra su línea después de la anterior
 print("Te doy la bienvenida a la ruta de 100 proyectos en Python.")
 print("Si estás leyendo esto, ya ejecutaste tu primer programa.")
 print()
 
-# Lo que viene en la ruta, etapa por etapa
 print("Esto es lo que vas a recorrer:")
 print("1. Fundamentos: variables, tipos de datos, operadores y condicionales.")
 print("2. Programación estructurada: ciclos, funciones, listas y archivos.")
