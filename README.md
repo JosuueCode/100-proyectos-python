@@ -35,3 +35,4 @@ python main.py
 | 002 | [Saludo personalizado](01-fundamentos/002-saludo-personalizado/) | 01-fundamentos | Terminado |
 | 003 | [Conversor de temperatura](01-fundamentos/003-conversor-temperatura/) | 01-fundamentos | Terminado |
 | 004 | [Calculadora básica](01-fundamentos/004-calculadora-basica/) | 01-fundamentos | Terminado |
+| 005 | [Par o impar](01-fundamentos/005-par-o-impar/) | 01-fundamentos | Terminado |
