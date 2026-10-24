@@ -42,3 +42,4 @@ python main.py
 | 009 | [Cajero simple](01-fundamentos/009-cajero-simple/) | 01-fundamentos | Terminado |
 | 010 | [Conversor de monedas](01-fundamentos/010-conversor-monedas/) | 01-fundamentos | Terminado |
 | 011 | [Mayor de tres números](01-fundamentos/011-mayor-de-tres/) | 01-fundamentos | Terminado |
+| 012 | [Validador de triángulos](01-fundamentos/012-triangulo-valido/) | 01-fundamentos | Terminado |
