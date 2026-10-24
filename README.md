@@ -37,3 +37,4 @@ python main.py
 | 004 | [Calculadora básica](01-fundamentos/004-calculadora-basica/) | 01-fundamentos | Terminado |
 | 005 | [Par o impar](01-fundamentos/005-par-o-impar/) | 01-fundamentos | Terminado |
 | 006 | [Edad en días](01-fundamentos/006-edad-en-dias/) | 01-fundamentos | Terminado |
+| 007 | [Calculadora de propina](01-fundamentos/007-calculadora-propina/) | 01-fundamentos | Terminado |
