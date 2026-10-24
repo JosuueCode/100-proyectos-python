@@ -6,7 +6,8 @@ de forma aproximada.
 
 # Estos valores no cambian durante el programa, así que se guardan como
 # constantes. En Python una constante es una variable normal: escribir su
-# nombre en MAYÚSCULAS es la convención de PEP 8 para indicar que no se modifica.
+# nombre en MAYÚSCULAS es la convención de PEP 8 para indicar que no se
+# modifica.
 MESES_POR_ANIO = 12
 SEMANAS_POR_ANIO = 52
 DIAS_POR_ANIO = 365

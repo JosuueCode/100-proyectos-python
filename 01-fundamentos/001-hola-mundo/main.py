@@ -5,7 +5,8 @@ a quien lo ejecuta.
 """
 
 # El texto entre comillas triples (""") al inicio del archivo es un docstring:
-# documenta qué hace el programa. Python lo guarda, pero no lo muestra en pantalla.
+# documenta qué hace el programa. Python lo guarda, pero no lo muestra en
+# pantalla.
 
 # Las líneas que empiezan con # son comentarios: Python las ignora al ejecutar.
 # Sirven para explicar el código a quien lo lee.

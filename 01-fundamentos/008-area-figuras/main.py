@@ -1,6 +1,7 @@
 """Proyecto 008: Área de figuras.
 
-Muestra un menú de figuras, pide sus medidas y calcula el área de la que elijas.
+Muestra un menú de figuras, pide sus medidas y calcula el área de la que
+elijas.
 """
 
 # Valor aproximado de pi, guardado como constante para usarlo en el círculo

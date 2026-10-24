@@ -1,6 +1,7 @@
 """Proyecto 003: Conversor de temperatura.
 
-Convierte una temperatura de Celsius a Fahrenheit y otra de Fahrenheit a Celsius.
+Convierte una temperatura de Celsius a Fahrenheit y otra de Fahrenheit
+a Celsius.
 """
 
 # De Celsius a Fahrenheit
@@ -8,7 +9,8 @@ Convierte una temperatura de Celsius a Fahrenheit y otra de Fahrenheit a Celsius
 # input() siempre devuelve una cadena de texto, y con texto no se puede
 # calcular. float() hace una conversión de tipo: convierte ese texto en un
 # número decimal (tipo float).
-# El guion bajo _ separa palabras en el nombre de una variable (estilo de PEP 8).
+# El guion bajo _ separa palabras en el nombre de una variable
+# (estilo de PEP 8).
 texto_celsius = input("Escribe una temperatura en grados Celsius: ")
 celsius = float(texto_celsius)
 

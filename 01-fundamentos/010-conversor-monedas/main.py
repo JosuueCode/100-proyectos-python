@@ -10,7 +10,8 @@ PESOS_POR_DOLAR = 18.50
 PESOS_POR_EURO = 20.00
 PESOS_POR_YEN = 0.12
 
-print("Aviso: las tasas de cambio de este programa son de ejemplo, no son reales.")
+print("Aviso: las tasas de cambio de este programa son de ejemplo,")
+print("no son reales.")
 print()
 
 pesos = float(input("¿Cuántos pesos mexicanos quieres convertir? "))
