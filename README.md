@@ -39,3 +39,4 @@ python main.py
 | 006 | [Edad en días](01-fundamentos/006-edad-en-dias/) | 01-fundamentos | Terminado |
 | 007 | [Calculadora de propina](01-fundamentos/007-calculadora-propina/) | 01-fundamentos | Terminado |
 | 008 | [Área de figuras](01-fundamentos/008-area-figuras/) | 01-fundamentos | Terminado |
+| 009 | [Cajero simple](01-fundamentos/009-cajero-simple/) | 01-fundamentos | Terminado |
