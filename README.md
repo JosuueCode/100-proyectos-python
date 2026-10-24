@@ -40,3 +40,4 @@ python main.py
 | 007 | [Calculadora de propina](01-fundamentos/007-calculadora-propina/) | 01-fundamentos | Terminado |
 | 008 | [Área de figuras](01-fundamentos/008-area-figuras/) | 01-fundamentos | Terminado |
 | 009 | [Cajero simple](01-fundamentos/009-cajero-simple/) | 01-fundamentos | Terminado |
+| 010 | [Conversor de monedas](01-fundamentos/010-conversor-monedas/) | 01-fundamentos | Terminado |
