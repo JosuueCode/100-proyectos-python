@@ -44,3 +44,4 @@ python main.py
 | 011 | [Mayor de tres números](01-fundamentos/011-mayor-de-tres/) | 01-fundamentos | Terminado |
 | 012 | [Validador de triángulos](01-fundamentos/012-triangulo-valido/) | 01-fundamentos | Terminado |
 | 013 | [Clasificador de IMC](01-fundamentos/013-clasificador-imc/) | 01-fundamentos | Terminado |
+| 014 | [Verificador de login](01-fundamentos/014-verificador-login/) | 01-fundamentos | Terminado |
