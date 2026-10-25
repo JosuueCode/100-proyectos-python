@@ -8,8 +8,10 @@ lo mejor es seguirlos en orden.
 
 Los proyectos se dividen en cuatro etapas:
 
-- 01-fundamentos: variables, tipos, entrada y salida, operadores y condicionales.
-- 02-estructurada: ciclos, funciones, listas, diccionarios, archivos y módulos.
+- 01-fundamentos: variables, operadores, condicionales y ciclos. Aquí aprendes
+  las tres estructuras básicas: secuencia, selección e iteración.
+- 02-estructurada: f-strings, métodos de texto, funciones, listas,
+  diccionarios, manejo de errores, archivos y módulos.
 - 03-poo: clases, herencia, encapsulamiento y polimorfismo.
 - 04-avanzados: juegos y aplicaciones visuales e interactivas.
 
@@ -51,3 +53,33 @@ python main.py
 | 018 | [Descuento de tienda](01-fundamentos/018-descuento-tienda/) | 01-fundamentos | Terminado |
 | 019 | [Cuadrado y cubo de un número](01-fundamentos/019-cuadrado-cubo/) | 01-fundamentos | Terminado |
 | 020 | [Contador de caracteres](01-fundamentos/020-contador-caracteres/) | 01-fundamentos | Terminado |
+| 021 | Validar edad | 01-fundamentos | Pendiente |
+| 022 | Cuenta regresiva | 01-fundamentos | Pendiente |
+| 023 | Tabla de multiplicar | 01-fundamentos | Pendiente |
+| 024 | Suma de pares | 01-fundamentos | Pendiente |
+| 025 | Cajero con menú | 01-fundamentos | Pendiente |
+| 026 | Presupuesto mensual | 02-estructurada | Pendiente |
+| 027 | Transformador de texto | 02-estructurada | Pendiente |
+| 028 | Invertir nombre | 02-estructurada | Pendiente |
+| 029 | Palíndromo | 02-estructurada | Pendiente |
+| 030 | Contador de vocales | 02-estructurada | Pendiente |
+| 031 | Adivina el número | 02-estructurada | Pendiente |
+| 032 | Piedra, papel o tijera | 02-estructurada | Pendiente |
+| 033 | Máximo con funciones | 02-estructurada | Pendiente |
+| 034 | Calculadora con funciones | 02-estructurada | Pendiente |
+| 035 | Números primos | 02-estructurada | Pendiente |
+| 036 | Fibonacci | 02-estructurada | Pendiente |
+| 037 | Factorial | 02-estructurada | Pendiente |
+| 038 | Lista de compras | 02-estructurada | Pendiente |
+| 039 | Promedio de calificaciones | 02-estructurada | Pendiente |
+| 040 | Eliminar duplicados | 02-estructurada | Pendiente |
+| 041 | Buscar en una lista | 02-estructurada | Pendiente |
+| 042 | Ordenar números | 02-estructurada | Pendiente |
+| 043 | Agenda de contactos | 02-estructurada | Pendiente |
+| 044 | Contador de palabras | 02-estructurada | Pendiente |
+| 045 | Ahorcado | 02-estructurada | Pendiente |
+| 046 | Inventario | 02-estructurada | Pendiente |
+| 047 | Entrada segura | 02-estructurada | Pendiente |
+| 048 | Bloc de notas | 02-estructurada | Pendiente |
+| 049 | Registro de gastos en CSV | 02-estructurada | Pendiente |
+| 050 | Módulo de utilidades | 02-estructurada | Pendiente |
