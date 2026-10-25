@@ -48,3 +48,4 @@ python main.py
 | 015 | [Calificación con letra](01-fundamentos/015-calificacion-letra/) | 01-fundamentos | Terminado |
 | 016 | [Año bisiesto](01-fundamentos/016-anio-bisiesto/) | 01-fundamentos | Terminado |
 | 017 | [Nombre del día de la semana](01-fundamentos/017-dia-de-la-semana/) | 01-fundamentos | Terminado |
+| 018 | [Descuento de tienda](01-fundamentos/018-descuento-tienda/) | 01-fundamentos | Terminado |
