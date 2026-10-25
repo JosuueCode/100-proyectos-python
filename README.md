@@ -47,3 +47,4 @@ python main.py
 | 014 | [Verificador de login](01-fundamentos/014-verificador-login/) | 01-fundamentos | Terminado |
 | 015 | [Calificación con letra](01-fundamentos/015-calificacion-letra/) | 01-fundamentos | Terminado |
 | 016 | [Año bisiesto](01-fundamentos/016-anio-bisiesto/) | 01-fundamentos | Terminado |
+| 017 | [Nombre del día de la semana](01-fundamentos/017-dia-de-la-semana/) | 01-fundamentos | Terminado |
