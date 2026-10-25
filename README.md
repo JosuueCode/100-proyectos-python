@@ -49,3 +49,4 @@ python main.py
 | 016 | [Año bisiesto](01-fundamentos/016-anio-bisiesto/) | 01-fundamentos | Terminado |
 | 017 | [Nombre del día de la semana](01-fundamentos/017-dia-de-la-semana/) | 01-fundamentos | Terminado |
 | 018 | [Descuento de tienda](01-fundamentos/018-descuento-tienda/) | 01-fundamentos | Terminado |
+| 019 | [Cuadrado y cubo de un número](01-fundamentos/019-cuadrado-cubo/) | 01-fundamentos | Terminado |
