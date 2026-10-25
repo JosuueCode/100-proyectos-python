@@ -26,7 +26,7 @@ print()
 
 print("Esto es lo que vas a recorrer:")
 print("1. Fundamentos: variables, operadores, condicionales y ciclos.")
-print("2. Programación estructurada: funciones, listas, diccionarios y archivos.")
+print("2. Programación estructurada: funciones, listas y archivos.")
 print("3. Programación orientada a objetos: clases, herencia y polimorfismo.")
 print("4. Proyectos avanzados: juegos y aplicaciones con interfaz gráfica.")
 print()
