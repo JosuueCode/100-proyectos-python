@@ -46,3 +46,4 @@ python main.py
 | 013 | [Clasificador de IMC](01-fundamentos/013-clasificador-imc/) | 01-fundamentos | Terminado |
 | 014 | [Verificador de login](01-fundamentos/014-verificador-login/) | 01-fundamentos | Terminado |
 | 015 | [Calificación con letra](01-fundamentos/015-calificacion-letra/) | 01-fundamentos | Terminado |
+| 016 | [Año bisiesto](01-fundamentos/016-anio-bisiesto/) | 01-fundamentos | Terminado |
