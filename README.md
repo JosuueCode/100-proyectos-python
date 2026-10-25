@@ -50,3 +50,4 @@ python main.py
 | 017 | [Nombre del día de la semana](01-fundamentos/017-dia-de-la-semana/) | 01-fundamentos | Terminado |
 | 018 | [Descuento de tienda](01-fundamentos/018-descuento-tienda/) | 01-fundamentos | Terminado |
 | 019 | [Cuadrado y cubo de un número](01-fundamentos/019-cuadrado-cubo/) | 01-fundamentos | Terminado |
+| 020 | [Contador de caracteres](01-fundamentos/020-contador-caracteres/) | 01-fundamentos | Terminado |
