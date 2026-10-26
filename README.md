@@ -55,7 +55,7 @@ python main.py
 | 020 | [Contador de caracteres](01-fundamentos/020-contador-caracteres/) | 01-fundamentos | Terminado |
 | 021 | [Validar edad](01-fundamentos/021-validar-edad/) | 01-fundamentos | Terminado |
 | 022 | [Cuenta regresiva](01-fundamentos/022-cuenta-regresiva/) | 01-fundamentos | Terminado |
-| 023 | Tabla de multiplicar | 01-fundamentos | Pendiente |
+| 023 | [Tabla de multiplicar](01-fundamentos/023-tabla-multiplicar/) | 01-fundamentos | Terminado |
 | 024 | Suma de pares | 01-fundamentos | Pendiente |
 | 025 | Cajero con menú | 01-fundamentos | Pendiente |
 | 026 | Presupuesto mensual | 02-estructurada | Pendiente |
