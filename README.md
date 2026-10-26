@@ -54,7 +54,7 @@ python main.py
 | 019 | [Cuadrado y cubo de un número](01-fundamentos/019-cuadrado-cubo/) | 01-fundamentos | Terminado |
 | 020 | [Contador de caracteres](01-fundamentos/020-contador-caracteres/) | 01-fundamentos | Terminado |
 | 021 | [Validar edad](01-fundamentos/021-validar-edad/) | 01-fundamentos | Terminado |
-| 022 | Cuenta regresiva | 01-fundamentos | Pendiente |
+| 022 | [Cuenta regresiva](01-fundamentos/022-cuenta-regresiva/) | 01-fundamentos | Terminado |
 | 023 | Tabla de multiplicar | 01-fundamentos | Pendiente |
 | 024 | Suma de pares | 01-fundamentos | Pendiente |
 | 025 | Cajero con menú | 01-fundamentos | Pendiente |
