@@ -59,7 +59,7 @@ python main.py
 | 024 | [Suma de números pares](01-fundamentos/024-suma-de-pares/) | 01-fundamentos | Terminado |
 | 025 | [Cajero con menú](01-fundamentos/025-cajero-con-menu/) | 01-fundamentos | Terminado |
 | 026 | [Presupuesto mensual](02-estructurada/026-presupuesto-mensual/) | 02-estructurada | Terminado |
-| 027 | Transformador de texto | 02-estructurada | Pendiente |
+| 027 | [Transformador de texto](02-estructurada/027-transformador-texto/) | 02-estructurada | Terminado |
 | 028 | Invertir nombre | 02-estructurada | Pendiente |
 | 029 | Palíndromo | 02-estructurada | Pendiente |
 | 030 | Contador de vocales | 02-estructurada | Pendiente |
