@@ -53,7 +53,7 @@ python main.py
 | 018 | [Descuento de tienda](01-fundamentos/018-descuento-tienda/) | 01-fundamentos | Terminado |
 | 019 | [Cuadrado y cubo de un número](01-fundamentos/019-cuadrado-cubo/) | 01-fundamentos | Terminado |
 | 020 | [Contador de caracteres](01-fundamentos/020-contador-caracteres/) | 01-fundamentos | Terminado |
-| 021 | Validar edad | 01-fundamentos | Pendiente |
+| 021 | [Validar edad](01-fundamentos/021-validar-edad/) | 01-fundamentos | Terminado |
 | 022 | Cuenta regresiva | 01-fundamentos | Pendiente |
 | 023 | Tabla de multiplicar | 01-fundamentos | Pendiente |
 | 024 | Suma de pares | 01-fundamentos | Pendiente |
