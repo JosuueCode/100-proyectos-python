@@ -61,7 +61,7 @@ python main.py
 | 026 | [Presupuesto mensual](02-estructurada/026-presupuesto-mensual/) | 02-estructurada | Terminado |
 | 027 | [Transformador de texto](02-estructurada/027-transformador-texto/) | 02-estructurada | Terminado |
 | 028 | [Invertir nombre](02-estructurada/028-invertir-nombre/) | 02-estructurada | Terminado |
-| 029 | Palíndromo | 02-estructurada | Pendiente |
+| 029 | [Palíndromo](02-estructurada/029-palindromo/) | 02-estructurada | Terminado |
 | 030 | Contador de vocales | 02-estructurada | Pendiente |
 | 031 | Adivina el número | 02-estructurada | Pendiente |
 | 032 | Piedra, papel o tijera | 02-estructurada | Pendiente |
