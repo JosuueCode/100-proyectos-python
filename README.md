@@ -63,7 +63,7 @@ python main.py
 | 028 | [Invertir nombre](02-estructurada/028-invertir-nombre/) | 02-estructurada | Terminado |
 | 029 | [Palíndromo](02-estructurada/029-palindromo/) | 02-estructurada | Terminado |
 | 030 | [Contador de vocales](02-estructurada/030-contador-vocales/) | 02-estructurada | Terminado |
-| 031 | Adivina el número | 02-estructurada | Pendiente |
+| 031 | [Adivina el número](02-estructurada/031-adivina-el-numero/) | 02-estructurada | Terminado |
 | 032 | Piedra, papel o tijera | 02-estructurada | Pendiente |
 | 033 | Máximo con funciones | 02-estructurada | Pendiente |
 | 034 | Calculadora con funciones | 02-estructurada | Pendiente |
