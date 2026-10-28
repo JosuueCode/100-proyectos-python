@@ -66,7 +66,7 @@ python main.py
 | 031 | [Adivina el número](02-estructurada/031-adivina-el-numero/) | 02-estructurada | Terminado |
 | 032 | [Piedra, papel o tijera](02-estructurada/032-piedra-papel-tijera/) | 02-estructurada | Terminado |
 | 033 | [Máximo con función](02-estructurada/033-maximo-funcion/) | 02-estructurada | Terminado |
-| 034 | Calculadora con funciones | 02-estructurada | Pendiente |
+| 034 | [Calculadora con funciones](02-estructurada/034-calculadora-funciones/) | 02-estructurada | Terminado |
 | 035 | Números primos | 02-estructurada | Pendiente |
 | 036 | Fibonacci | 02-estructurada | Pendiente |
 | 037 | Factorial | 02-estructurada | Pendiente |
