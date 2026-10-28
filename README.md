@@ -67,7 +67,7 @@ python main.py
 | 032 | [Piedra, papel o tijera](02-estructurada/032-piedra-papel-tijera/) | 02-estructurada | Terminado |
 | 033 | [Máximo con función](02-estructurada/033-maximo-funcion/) | 02-estructurada | Terminado |
 | 034 | [Calculadora con funciones](02-estructurada/034-calculadora-funciones/) | 02-estructurada | Terminado |
-| 035 | Números primos | 02-estructurada | Pendiente |
+| 035 | [Números primos](02-estructurada/035-numeros-primos/) | 02-estructurada | Terminado |
 | 036 | Fibonacci | 02-estructurada | Pendiente |
 | 037 | Factorial | 02-estructurada | Pendiente |
 | 038 | Lista de compras | 02-estructurada | Pendiente |
