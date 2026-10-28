@@ -65,7 +65,7 @@ python main.py
 | 030 | [Contador de vocales](02-estructurada/030-contador-vocales/) | 02-estructurada | Terminado |
 | 031 | [Adivina el número](02-estructurada/031-adivina-el-numero/) | 02-estructurada | Terminado |
 | 032 | [Piedra, papel o tijera](02-estructurada/032-piedra-papel-tijera/) | 02-estructurada | Terminado |
-| 033 | Máximo con funciones | 02-estructurada | Pendiente |
+| 033 | [Máximo con función](02-estructurada/033-maximo-funcion/) | 02-estructurada | Terminado |
 | 034 | Calculadora con funciones | 02-estructurada | Pendiente |
 | 035 | Números primos | 02-estructurada | Pendiente |
 | 036 | Fibonacci | 02-estructurada | Pendiente |
