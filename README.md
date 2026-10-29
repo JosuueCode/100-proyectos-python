@@ -69,7 +69,7 @@ python main.py
 | 034 | [Calculadora con funciones](02-estructurada/034-calculadora-funciones/) | 02-estructurada | Terminado |
 | 035 | [Números primos](02-estructurada/035-numeros-primos/) | 02-estructurada | Terminado |
 | 036 | [Fibonacci](02-estructurada/036-fibonacci/) | 02-estructurada | Terminado |
-| 037 | Factorial | 02-estructurada | Pendiente |
+| 037 | [Factorial](02-estructurada/037-factorial/) | 02-estructurada | Terminado |
 | 038 | Lista de compras | 02-estructurada | Pendiente |
 | 039 | Promedio de calificaciones | 02-estructurada | Pendiente |
 | 040 | Eliminar duplicados | 02-estructurada | Pendiente |
