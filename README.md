@@ -70,7 +70,7 @@ python main.py
 | 035 | [Números primos](02-estructurada/035-numeros-primos/) | 02-estructurada | Terminado |
 | 036 | [Fibonacci](02-estructurada/036-fibonacci/) | 02-estructurada | Terminado |
 | 037 | [Factorial](02-estructurada/037-factorial/) | 02-estructurada | Terminado |
-| 038 | Lista de compras | 02-estructurada | Pendiente |
+| 038 | [Lista de compras](02-estructurada/038-lista-compras/) | 02-estructurada | Terminado |
 | 039 | Promedio de calificaciones | 02-estructurada | Pendiente |
 | 040 | Eliminar duplicados | 02-estructurada | Pendiente |
 | 041 | Buscar en una lista | 02-estructurada | Pendiente |
