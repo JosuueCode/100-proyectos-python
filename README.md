@@ -80,6 +80,6 @@ python main.py
 | 045 | [Ahorcado](02-estructurada/045-ahorcado/) | 02-estructurada | Terminado |
 | 046 | [Inventario](02-estructurada/046-inventario/) | 02-estructurada | Terminado |
 | 047 | [Entrada segura](02-estructurada/047-entrada-segura/) | 02-estructurada | Terminado |
-| 048 | Bloc de notas | 02-estructurada | Pendiente |
+| 048 | [Bloc de notas](02-estructurada/048-bloc-de-notas/) | 02-estructurada | Terminado |
 | 049 | Registro de gastos en CSV | 02-estructurada | Pendiente |
 | 050 | Módulo de utilidades | 02-estructurada | Pendiente |
