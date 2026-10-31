@@ -82,4 +82,4 @@ python main.py
 | 047 | [Entrada segura](02-estructurada/047-entrada-segura/) | 02-estructurada | Terminado |
 | 048 | [Bloc de notas](02-estructurada/048-bloc-de-notas/) | 02-estructurada | Terminado |
 | 049 | [Registro de gastos en CSV](02-estructurada/049-registro-gastos-csv/) | 02-estructurada | Terminado |
-| 050 | Módulo de utilidades | 02-estructurada | Pendiente |
+| 050 | [Módulo de utilidades](02-estructurada/050-modulo-utilidades/) | 02-estructurada | Terminado |
