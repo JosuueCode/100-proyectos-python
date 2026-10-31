@@ -74,7 +74,7 @@ python main.py
 | 039 | [Promedio de calificaciones](02-estructurada/039-promedio-calificaciones/) | 02-estructurada | Terminado |
 | 040 | [Eliminar duplicados](02-estructurada/040-eliminar-duplicados/) | 02-estructurada | Terminado |
 | 041 | [Buscador en lista](02-estructurada/041-buscar-en-lista/) | 02-estructurada | Terminado |
-| 042 | Ordenar números | 02-estructurada | Pendiente |
+| 042 | [Ordenar números](02-estructurada/042-ordenar-numeros/) | 02-estructurada | Terminado |
 | 043 | Agenda de contactos | 02-estructurada | Pendiente |
 | 044 | Contador de palabras | 02-estructurada | Pendiente |
 | 045 | Ahorcado | 02-estructurada | Pendiente |
