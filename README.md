@@ -77,7 +77,7 @@ python main.py
 | 042 | [Ordenar números](02-estructurada/042-ordenar-numeros/) | 02-estructurada | Terminado |
 | 043 | [Agenda de contactos](02-estructurada/043-agenda-contactos/) | 02-estructurada | Terminado |
 | 044 | [Contador de palabras](02-estructurada/044-contador-palabras/) | 02-estructurada | Terminado |
-| 045 | Ahorcado | 02-estructurada | Pendiente |
+| 045 | [Ahorcado](02-estructurada/045-ahorcado/) | 02-estructurada | Terminado |
 | 046 | Inventario | 02-estructurada | Pendiente |
 | 047 | Entrada segura | 02-estructurada | Pendiente |
 | 048 | Bloc de notas | 02-estructurada | Pendiente |
