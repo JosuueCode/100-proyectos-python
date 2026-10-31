@@ -78,7 +78,7 @@ python main.py
 | 043 | [Agenda de contactos](02-estructurada/043-agenda-contactos/) | 02-estructurada | Terminado |
 | 044 | [Contador de palabras](02-estructurada/044-contador-palabras/) | 02-estructurada | Terminado |
 | 045 | [Ahorcado](02-estructurada/045-ahorcado/) | 02-estructurada | Terminado |
-| 046 | Inventario | 02-estructurada | Pendiente |
+| 046 | [Inventario](02-estructurada/046-inventario/) | 02-estructurada | Terminado |
 | 047 | Entrada segura | 02-estructurada | Pendiente |
 | 048 | Bloc de notas | 02-estructurada | Pendiente |
 | 049 | Registro de gastos en CSV | 02-estructurada | Pendiente |
