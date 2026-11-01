@@ -91,7 +91,7 @@ python main.py
 | 056 | [Estudiante y calificaciones](03-poo/056-estudiante-calificaciones/) | 03-poo | Terminado |
 | 057 | [Vehículos con herencia](03-poo/057-herencia-vehiculos/) | 03-poo | Terminado |
 | 058 | [Empleados y sueldos](03-poo/058-herencia-empleados/) | 03-poo | Terminado |
-| 059 | Animales y sonidos | 03-poo | Pendiente |
+| 059 | [Animales y sonidos](03-poo/059-polimorfismo-animales/) | 03-poo | Terminado |
 | 060 | Figuras con clase abstracta | 03-poo | Pendiente |
 | 061 | Carrito de compras | 03-poo | Pendiente |
 | 062 | Biblioteca con préstamos | 03-poo | Pendiente |
