@@ -96,7 +96,7 @@ python main.py
 | 061 | [Carrito de compras](03-poo/061-carrito-compras/) | 03-poo | Terminado |
 | 062 | [Biblioteca con préstamos](03-poo/062-biblioteca-prestamos/) | 03-poo | Terminado |
 | 063 | [Cajero con varias cuentas](03-poo/063-cajero-cuentas/) | 03-poo | Terminado |
-| 064 | Lista de tareas | 03-poo | Pendiente |
+| 064 | [Lista de tareas](03-poo/064-lista-tareas/) | 03-poo | Terminado |
 | 065 | Jerarquía de empleados | 03-poo | Pendiente |
 | 066 | Excepciones propias | 03-poo | Pendiente |
 | 067 | Clase Matriz | 03-poo | Pendiente |
