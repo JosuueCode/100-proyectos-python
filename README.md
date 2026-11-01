@@ -94,7 +94,7 @@ python main.py
 | 059 | [Animales y sonidos](03-poo/059-polimorfismo-animales/) | 03-poo | Terminado |
 | 060 | [Figuras con clase abstracta](03-poo/060-figuras-abstractas/) | 03-poo | Terminado |
 | 061 | [Carrito de compras](03-poo/061-carrito-compras/) | 03-poo | Terminado |
-| 062 | Biblioteca con préstamos | 03-poo | Pendiente |
+| 062 | [Biblioteca con préstamos](03-poo/062-biblioteca-prestamos/) | 03-poo | Terminado |
 | 063 | Cajero con cuentas | 03-poo | Pendiente |
 | 064 | Lista de tareas | 03-poo | Pendiente |
 | 065 | Jerarquía de empleados | 03-poo | Pendiente |
