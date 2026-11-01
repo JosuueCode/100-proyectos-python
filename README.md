@@ -95,7 +95,7 @@ python main.py
 | 060 | [Figuras con clase abstracta](03-poo/060-figuras-abstractas/) | 03-poo | Terminado |
 | 061 | [Carrito de compras](03-poo/061-carrito-compras/) | 03-poo | Terminado |
 | 062 | [Biblioteca con préstamos](03-poo/062-biblioteca-prestamos/) | 03-poo | Terminado |
-| 063 | Cajero con cuentas | 03-poo | Pendiente |
+| 063 | [Cajero con varias cuentas](03-poo/063-cajero-cuentas/) | 03-poo | Terminado |
 | 064 | Lista de tareas | 03-poo | Pendiente |
 | 065 | Jerarquía de empleados | 03-poo | Pendiente |
 | 066 | Excepciones propias | 03-poo | Pendiente |
