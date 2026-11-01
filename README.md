@@ -92,7 +92,7 @@ python main.py
 | 057 | [Vehículos con herencia](03-poo/057-herencia-vehiculos/) | 03-poo | Terminado |
 | 058 | [Empleados y sueldos](03-poo/058-herencia-empleados/) | 03-poo | Terminado |
 | 059 | [Animales y sonidos](03-poo/059-polimorfismo-animales/) | 03-poo | Terminado |
-| 060 | Figuras con clase abstracta | 03-poo | Pendiente |
+| 060 | [Figuras con clase abstracta](03-poo/060-figuras-abstractas/) | 03-poo | Terminado |
 | 061 | Carrito de compras | 03-poo | Pendiente |
 | 062 | Biblioteca con préstamos | 03-poo | Pendiente |
 | 063 | Cajero con cuentas | 03-poo | Pendiente |
