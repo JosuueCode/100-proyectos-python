@@ -88,7 +88,7 @@ python main.py
 | 053 | [Clase Rectángulo](03-poo/053-rectangulo/) | 03-poo | Terminado |
 | 054 | [Contador de instancias](03-poo/054-contador-instancias/) | 03-poo | Terminado |
 | 055 | [Clase Libro](03-poo/055-clase-libro/) | 03-poo | Terminado |
-| 056 | Estudiante y calificaciones | 03-poo | Pendiente |
+| 056 | [Estudiante y calificaciones](03-poo/056-estudiante-calificaciones/) | 03-poo | Terminado |
 | 057 | Vehículos con herencia | 03-poo | Pendiente |
 | 058 | Empleados y sueldos | 03-poo | Pendiente |
 | 059 | Animales y sonidos | 03-poo | Pendiente |
