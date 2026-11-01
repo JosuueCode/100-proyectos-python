@@ -85,7 +85,7 @@ python main.py
 | 050 | [Módulo de utilidades](02-estructurada/050-modulo-utilidades/) | 02-estructurada | Terminado |
 | 051 | [Clase Persona](03-poo/051-clase-persona/) | 03-poo | Terminado |
 | 052 | [Cuenta bancaria](03-poo/052-cuenta-bancaria/) | 03-poo | Terminado |
-| 053 | Clase Rectángulo | 03-poo | Pendiente |
+| 053 | [Clase Rectángulo](03-poo/053-rectangulo/) | 03-poo | Terminado |
 | 054 | Contador de instancias | 03-poo | Pendiente |
 | 055 | Clase Libro | 03-poo | Pendiente |
 | 056 | Estudiante y calificaciones | 03-poo | Pendiente |
