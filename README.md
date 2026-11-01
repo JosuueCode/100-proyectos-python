@@ -83,3 +83,28 @@ python main.py
 | 048 | [Bloc de notas](02-estructurada/048-bloc-de-notas/) | 02-estructurada | Terminado |
 | 049 | [Registro de gastos en CSV](02-estructurada/049-registro-gastos-csv/) | 02-estructurada | Terminado |
 | 050 | [Módulo de utilidades](02-estructurada/050-modulo-utilidades/) | 02-estructurada | Terminado |
+| 051 | [Clase Persona](03-poo/051-clase-persona/) | 03-poo | Terminado |
+| 052 | Cuenta bancaria | 03-poo | Pendiente |
+| 053 | Clase Rectángulo | 03-poo | Pendiente |
+| 054 | Contador de instancias | 03-poo | Pendiente |
+| 055 | Clase Libro | 03-poo | Pendiente |
+| 056 | Estudiante y calificaciones | 03-poo | Pendiente |
+| 057 | Vehículos con herencia | 03-poo | Pendiente |
+| 058 | Empleados y sueldos | 03-poo | Pendiente |
+| 059 | Animales y sonidos | 03-poo | Pendiente |
+| 060 | Figuras con clase abstracta | 03-poo | Pendiente |
+| 061 | Carrito de compras | 03-poo | Pendiente |
+| 062 | Biblioteca con préstamos | 03-poo | Pendiente |
+| 063 | Cajero con cuentas | 03-poo | Pendiente |
+| 064 | Lista de tareas | 03-poo | Pendiente |
+| 065 | Jerarquía de empleados | 03-poo | Pendiente |
+| 066 | Excepciones propias | 03-poo | Pendiente |
+| 067 | Clase Matriz | 03-poo | Pendiente |
+| 068 | Clase Fecha | 03-poo | Pendiente |
+| 069 | Punto y geometría | 03-poo | Pendiente |
+| 070 | Tickets de soporte | 03-poo | Pendiente |
+| 071 | Patrón observador | 03-poo | Pendiente |
+| 072 | Pila y cola | 03-poo | Pendiente |
+| 073 | Batalla de personajes | 03-poo | Pendiente |
+| 074 | Pedidos de tienda | 03-poo | Pendiente |
+| 075 | Parqueadero | 03-poo | Pendiente |
