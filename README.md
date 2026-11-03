@@ -101,7 +101,7 @@ python main.py
 | 066 | [Excepciones personalizadas](03-poo/066-excepciones-propias/) | 03-poo | Terminado |
 | 067 | [Clase Matriz](03-poo/067-clase-matriz/) | 03-poo | Terminado |
 | 068 | [Clase Fecha](03-poo/068-clase-fecha/) | 03-poo | Terminado |
-| 069 | Punto y geometría | 03-poo | Pendiente |
+| 069 | [Puntos y distancias](03-poo/069-punto-geometria/) | 03-poo | Terminado |
 | 070 | Tickets de soporte | 03-poo | Pendiente |
 | 071 | Patrón observador | 03-poo | Pendiente |
 | 072 | Pila y cola | 03-poo | Pendiente |
