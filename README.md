@@ -98,7 +98,7 @@ python main.py
 | 063 | [Cajero con varias cuentas](03-poo/063-cajero-cuentas/) | 03-poo | Terminado |
 | 064 | [Lista de tareas](03-poo/064-lista-tareas/) | 03-poo | Terminado |
 | 065 | [Jerarquía de empleados](03-poo/065-jerarquia-empleados/) | 03-poo | Terminado |
-| 066 | Excepciones propias | 03-poo | Pendiente |
+| 066 | [Excepciones personalizadas](03-poo/066-excepciones-propias/) | 03-poo | Terminado |
 | 067 | Clase Matriz | 03-poo | Pendiente |
 | 068 | Clase Fecha | 03-poo | Pendiente |
 | 069 | Punto y geometría | 03-poo | Pendiente |
