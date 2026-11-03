@@ -102,7 +102,7 @@ python main.py
 | 067 | [Clase Matriz](03-poo/067-clase-matriz/) | 03-poo | Terminado |
 | 068 | [Clase Fecha](03-poo/068-clase-fecha/) | 03-poo | Terminado |
 | 069 | [Puntos y distancias](03-poo/069-punto-geometria/) | 03-poo | Terminado |
-| 070 | Tickets de soporte | 03-poo | Pendiente |
+| 070 | [Sistema de tickets](03-poo/070-tickets-soporte/) | 03-poo | Terminado |
 | 071 | Patrón observador | 03-poo | Pendiente |
 | 072 | Pila y cola | 03-poo | Pendiente |
 | 073 | Batalla de personajes | 03-poo | Pendiente |
