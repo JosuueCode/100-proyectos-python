@@ -108,7 +108,7 @@ python main.py
 | 073 | [Batalla de personajes](03-poo/073-batalla-personajes/) | 03-poo | Terminado |
 | 074 | [Tienda en línea con pedidos](03-poo/074-pedidos-tienda/) | 03-poo | Terminado |
 | 075 | [Sistema de parqueadero](03-poo/075-parqueadero/) | 03-poo | Terminado |
-| 076 | Primera ventana con tkinter | 04-avanzados | Pendiente |
+| 076 | [Primera ventana con tkinter](04-avanzados/076-ventana-tkinter/) | 04-avanzados | Terminado |
 | 077 | Calculadora con interfaz | 04-avanzados | Pendiente |
 | 078 | Conversor con interfaz | 04-avanzados | Pendiente |
 | 079 | Lista de tareas con interfaz | 04-avanzados | Pendiente |
