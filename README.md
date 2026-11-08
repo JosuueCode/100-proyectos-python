@@ -105,7 +105,7 @@ python main.py
 | 070 | [Sistema de tickets](03-poo/070-tickets-soporte/) | 03-poo | Terminado |
 | 071 | [Patrón observador](03-poo/071-patron-observador/) | 03-poo | Terminado |
 | 072 | [Pila y cola](03-poo/072-pila-y-cola/) | 03-poo | Terminado |
-| 073 | Batalla de personajes | 03-poo | Pendiente |
+| 073 | [Batalla de personajes](03-poo/073-batalla-personajes/) | 03-poo | Terminado |
 | 074 | Pedidos de tienda | 03-poo | Pendiente |
 | 075 | Parqueadero | 03-poo | Pendiente |
 | 076 | Primera ventana con tkinter | 04-avanzados | Pendiente |
