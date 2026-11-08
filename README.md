@@ -104,7 +104,7 @@ python main.py
 | 069 | [Puntos y distancias](03-poo/069-punto-geometria/) | 03-poo | Terminado |
 | 070 | [Sistema de tickets](03-poo/070-tickets-soporte/) | 03-poo | Terminado |
 | 071 | [Patrón observador](03-poo/071-patron-observador/) | 03-poo | Terminado |
-| 072 | Pila y cola | 03-poo | Pendiente |
+| 072 | [Pila y cola](03-poo/072-pila-y-cola/) | 03-poo | Terminado |
 | 073 | Batalla de personajes | 03-poo | Pendiente |
 | 074 | Pedidos de tienda | 03-poo | Pendiente |
 | 075 | Parqueadero | 03-poo | Pendiente |
