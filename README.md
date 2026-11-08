@@ -103,8 +103,13 @@ python main.py
 | 068 | [Clase Fecha](03-poo/068-clase-fecha/) | 03-poo | Terminado |
 | 069 | [Puntos y distancias](03-poo/069-punto-geometria/) | 03-poo | Terminado |
 | 070 | [Sistema de tickets](03-poo/070-tickets-soporte/) | 03-poo | Terminado |
-| 071 | Patrón observador | 03-poo | Pendiente |
+| 071 | [Patrón observador](03-poo/071-patron-observador/) | 03-poo | Terminado |
 | 072 | Pila y cola | 03-poo | Pendiente |
 | 073 | Batalla de personajes | 03-poo | Pendiente |
 | 074 | Pedidos de tienda | 03-poo | Pendiente |
 | 075 | Parqueadero | 03-poo | Pendiente |
+| 076 | Primera ventana con tkinter | 04-avanzados | Pendiente |
+| 077 | Calculadora con interfaz | 04-avanzados | Pendiente |
+| 078 | Conversor con interfaz | 04-avanzados | Pendiente |
+| 079 | Lista de tareas con interfaz | 04-avanzados | Pendiente |
+| 080 | Reloj digital | 04-avanzados | Pendiente |
