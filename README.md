@@ -112,4 +112,4 @@ python main.py
 | 077 | [Calculadora con interfaz](04-avanzados/077-calculadora-tkinter/) | 04-avanzados | Terminado |
 | 078 | [Conversor con interfaz](04-avanzados/078-conversor-tkinter/) | 04-avanzados | Terminado |
 | 079 | [Lista de tareas con interfaz](04-avanzados/079-lista-tareas-gui/) | 04-avanzados | Terminado |
-| 080 | Reloj digital | 04-avanzados | Pendiente |
+| 080 | [Reloj digital](04-avanzados/080-reloj-digital/) | 04-avanzados | Terminado |
