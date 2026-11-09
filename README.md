@@ -110,6 +110,6 @@ python main.py
 | 075 | [Sistema de parqueadero](03-poo/075-parqueadero/) | 03-poo | Terminado |
 | 076 | [Primera ventana con tkinter](04-avanzados/076-ventana-tkinter/) | 04-avanzados | Terminado |
 | 077 | [Calculadora con interfaz](04-avanzados/077-calculadora-tkinter/) | 04-avanzados | Terminado |
-| 078 | Conversor con interfaz | 04-avanzados | Pendiente |
+| 078 | [Conversor con interfaz](04-avanzados/078-conversor-tkinter/) | 04-avanzados | Terminado |
 | 079 | Lista de tareas con interfaz | 04-avanzados | Pendiente |
 | 080 | Reloj digital | 04-avanzados | Pendiente |
