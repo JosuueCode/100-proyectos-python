@@ -114,7 +114,7 @@ python main.py
 | 079 | [Lista de tareas con interfaz](04-avanzados/079-lista-tareas-gui/) | 04-avanzados | Terminado |
 | 080 | [Reloj digital](04-avanzados/080-reloj-digital/) | 04-avanzados | Terminado |
 | 081 | [Ventana y dibujo con pygame](04-avanzados/081-pygame-ventana/) | 04-avanzados | Terminado |
-| 082 | Pelota que rebota | 04-avanzados | Pendiente |
+| 082 | [Pelota que rebota](04-avanzados/082-pelota-rebotando/) | 04-avanzados | Terminado |
 | 083 | Nave con teclado | 04-avanzados | Pendiente |
 | 084 | Pong | 04-avanzados | Pendiente |
 | 085 | Snake | 04-avanzados | Pendiente |
