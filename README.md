@@ -116,7 +116,7 @@ python main.py
 | 081 | [Ventana y dibujo con pygame](04-avanzados/081-pygame-ventana/) | 04-avanzados | Terminado |
 | 082 | [Pelota que rebota](04-avanzados/082-pelota-rebotando/) | 04-avanzados | Terminado |
 | 083 | [Nave con teclado](04-avanzados/083-nave-movimiento/) | 04-avanzados | Terminado |
-| 084 | Pong | 04-avanzados | Pendiente |
+| 084 | [Pong](04-avanzados/084-pong/) | 04-avanzados | Terminado |
 | 085 | Snake | 04-avanzados | Pendiente |
 | 086 | Breakout | 04-avanzados | Pendiente |
 | 087 | Cohete en la cueva | 04-avanzados | Pendiente |
