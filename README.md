@@ -118,7 +118,7 @@ python main.py
 | 083 | [Nave con teclado](04-avanzados/083-nave-movimiento/) | 04-avanzados | Terminado |
 | 084 | [Pong](04-avanzados/084-pong/) | 04-avanzados | Terminado |
 | 085 | [Snake](04-avanzados/085-snake/) | 04-avanzados | Terminado |
-| 086 | Breakout | 04-avanzados | Pendiente |
+| 086 | [Breakout](04-avanzados/086-breakout/) | 04-avanzados | Terminado |
 | 087 | Cohete en la cueva | 04-avanzados | Pendiente |
 | 088 | Defensa orbital | 04-avanzados | Pendiente |
 | 089 | Editor de dibujo | 04-avanzados | Pendiente |
