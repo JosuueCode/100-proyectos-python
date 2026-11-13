@@ -113,3 +113,13 @@ python main.py
 | 078 | [Conversor con interfaz](04-avanzados/078-conversor-tkinter/) | 04-avanzados | Terminado |
 | 079 | [Lista de tareas con interfaz](04-avanzados/079-lista-tareas-gui/) | 04-avanzados | Terminado |
 | 080 | [Reloj digital](04-avanzados/080-reloj-digital/) | 04-avanzados | Terminado |
+| 081 | [Ventana y dibujo con pygame](04-avanzados/081-pygame-ventana/) | 04-avanzados | Terminado |
+| 082 | Pelota que rebota | 04-avanzados | Pendiente |
+| 083 | Nave con teclado | 04-avanzados | Pendiente |
+| 084 | Pong | 04-avanzados | Pendiente |
+| 085 | Snake | 04-avanzados | Pendiente |
+| 086 | Breakout | 04-avanzados | Pendiente |
+| 087 | Cohete en la cueva | 04-avanzados | Pendiente |
+| 088 | Defensa orbital | 04-avanzados | Pendiente |
+| 089 | Editor de dibujo | 04-avanzados | Pendiente |
+| 090 | Juego de memoria | 04-avanzados | Pendiente |
