@@ -119,7 +119,7 @@ python main.py
 | 084 | [Pong](04-avanzados/084-pong/) | 04-avanzados | Terminado |
 | 085 | [Snake](04-avanzados/085-snake/) | 04-avanzados | Terminado |
 | 086 | [Breakout](04-avanzados/086-breakout/) | 04-avanzados | Terminado |
-| 087 | Cohete en la cueva | 04-avanzados | Pendiente |
+| 087 | [Cohete en la cueva](04-avanzados/087-cohete-cueva/) | 04-avanzados | Terminado |
 | 088 | Defensa orbital | 04-avanzados | Pendiente |
 | 089 | Editor de dibujo | 04-avanzados | Pendiente |
 | 090 | Juego de memoria | 04-avanzados | Pendiente |
