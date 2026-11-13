@@ -121,5 +121,5 @@ python main.py
 | 086 | [Breakout](04-avanzados/086-breakout/) | 04-avanzados | Terminado |
 | 087 | [Cohete en la cueva](04-avanzados/087-cohete-cueva/) | 04-avanzados | Terminado |
 | 088 | [Defensa orbital](04-avanzados/088-defensa-orbital/) | 04-avanzados | Terminado |
-| 089 | Editor de dibujo | 04-avanzados | Pendiente |
+| 089 | [Editor de dibujo](04-avanzados/089-editor-dibujo/) | 04-avanzados | Terminado |
 | 090 | Juego de memoria | 04-avanzados | Pendiente |
